@@ -1,0 +1,20 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment
+fastApiEnvv/
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore local project files
+Project.xlsx
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency lock files if not needed
+*.log
